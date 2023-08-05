@@ -1,4 +1,4 @@
-#Vamos escrever um program que decriptografa mensagens registradas com o programa criptografia.py  
+#Vamos escrever um programa que decriptografa mensagens registradas com o programa criptografia.py  
 
 #*********************************************************************************************
 #
