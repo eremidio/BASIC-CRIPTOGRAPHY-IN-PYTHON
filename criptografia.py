@@ -1,4 +1,4 @@
-#Vamos escrver um pequeno script para criptografia em Python.
+#Vamos escrever um pequeno script para criptografia em Python.
 
 #*********************************************************************************************
 #
